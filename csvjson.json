@@ -1,258 +1,258 @@
 {
-  type: 'FeatureCollection',
-  features: [
+  "type": "FeatureCollection",
+  "features": [
     {
-      type: 'Feature',
-      properties: {
-        Place: 'San Francisco',
-        Description: 'Wong Sai Ping arrived in San Francisco in February 1882. Nea Woo was allowed to land in San Francisco on August 5.',
-        Image: ''
+      "type": "Feature",
+      "properties": {
+        "place": "San Francisco",
+        "description": "Wong Sai Ping arrived in San Francisco in February 1882. Nea Woo was allowed to land in San Francisco on August 5.",
+        "Image": ""
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -122.41980291159174,
           37.77912377015993
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Taishan, Guangdong',
-        Description: 'Nea Woo’s father, Wong Sai Ping, and uncle Wong Sai Jick arrived in Los Angeles separately as two individuals from different villages in Toisan, Guangdong province. They claimed that they were only business partners in the general store Kwong On.'
+      "type": "Feature",
+      "properties": {
+        "place": "Taishan, Guangdong",
+        "description": "Nea Woo’s father, Wong Sai Ping, and uncle Wong Sai Jick arrived in Los Angeles separately as two individuals from different villages in Toisan, Guangdong province. They claimed that they were only business partners in the general store Kwong On."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           112.78504980157248,
           22.24902620986758
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Guangzhou',
-        Description: 'Upon urging by his parents, Nea Woo took his wife and June back to China in April 1931 for a visit. Within six months after their arrival, Sue succumbed to typhoid fever. The family remained in China. Wong Sai Ping built himself a grand house in Guangzhou, lived with his second wife and family until he passed away at 67 years of age in December 1932. Nea Woo remarried in Guangzhou in 1934.'
+      "type": "Feature",
+      "properties": {
+        "place": "Guangzhou",
+        "description": "Upon urging by his parents, Nea Woo took his wife and June back to China in April 1931 for a visit. Within six months after their arrival, Sue succumbed to typhoid fever. The family remained in China. Wong Sai Ping built himself a grand house in Guangzhou, lived with his second wife and family until he passed away at 67 years of age in December 1932. Nea Woo remarried in Guangzhou in 1934."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           113.25882297017847,
           23.128516434089434
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Guangdong',
-        Description: 'Wong Sai Ping returned to China in 1904. Wong Sai Ping returned to China probably sometime in the mid 1920’s again before the stock market crash of 1929.'
+      "type": "Feature",
+      "properties": {
+        "place": "Guangdong",
+        "description": "Wong Sai Ping returned to China in 1904. Wong Sai Ping returned to China probably sometime in the mid 1920’s again before the stock market crash of 1929."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           114.05878996999667,
           24.012677677149284
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Los Angeles',
-        Description: 'Wong Sai Ping officially remained in Los Angeles the entire time until he applied and was issued a merchant return permit Form 431 in August 1904. Wong Ping Kan came to America in December of 1904. Wong Sai Ping returned to Los Angeles in 1907.'
+      "type": "Feature",
+      "properties": {
+        "place": "Los Angeles",
+        "description": "Wong Sai Ping officially remained in Los Angeles the entire time until he applied and was issued a merchant return permit Form 431 in August 1904. Wong Ping Kan came to America in December of 1904. Wong Sai Ping returned to Los Angeles in 1907."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -118.24277099355706,
           34.053673806490266
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Angel Island',
-        Description: 'After ten years of arrival in the US, Wong Ping Kan petitioned to bring to America his “second son,” Wong Nea Woo, who was actually his nephew. Nea Woo arrived on Angel Island on June 1, 1915.',
-        Image: ''
+      "type": "Feature",
+      "properties": {
+        "place": "Angel Island",
+        "description": "After ten years of arrival in the US, Wong Ping Kan petitioned to bring to America his “second son,” Wong Nea Woo, who was actually his nephew. Nea Woo arrived on Angel Island on June 1, 1915.",
+        "Image": ""
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -122.42617960805815,
           37.86953808683681
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Stockton',
-        Description: 'Sue Mark, Nea Woo's wife, born in Stockton in 1900, was the first Chinese girl to graduate from Stockton High School as most of her friends at that time were only allowed by their parents to go through 8th grade and stayed home thereafter. Through her persistence, she landed herself a job at the Union Safe Deposit Bank. Nea Woo and Sue met and were married in March, 1928. Their daughter June was born in Stockton in June, 1929. After liberation until January, 1947, Nea Woo was able to obtain a business visa so he could accompany June who was still a minor and a citizen of the U.S., back to the States. He was given permission to remain on the basis that he was sending her through college. The family arrived in Stockton in January, 1947. June had to attend school weekdays, and to perform household chores evenings and weekends to earn her keep. June spent two years at Stockton High School. She spent two years in Stockton Junior College. After guaduation from Stanford University, June returned to Stockton once more to get back her old school girl job for two more years while she took a job teaching third grade. Clement and June were married in 1955.'
+      "type": "Feature",
+      "properties": {
+        "place": "Stockton",
+        "description": "Sue Mark, Nea Woo's wife, born in Stockton in 1900, was the first Chinese girl to graduate from Stockton High School as most of her friends at that time were only allowed by their parents to go through 8th grade and stayed home thereafter. Through her persistence, she landed herself a job at the Union Safe Deposit Bank. Nea Woo and Sue met and were married in March, 1928. Their daughter June was born in Stockton in June, 1929. After liberation until January, 1947, Nea Woo was able to obtain a business visa so he could accompany June who was still a minor and a citizen of the U.S., back to the States. He was given permission to remain on the basis that he was sending her through college. The family arrived in Stockton in January, 1947. June had to attend school weekdays, and to perform household chores evenings and weekends to earn her keep. June spent two years at Stockton High School. She spent two years in Stockton Junior College. After guaduation from Stanford University, June returned to Stockton once more to get back her old school girl job for two more years while she took a job teaching third grade. Clement and June were married in 1955."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -121.29075836626028,
           37.957612998196126
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: '112 Market Street, Stockton',
-        Description: 'Nea Woo moved to Stockton in 1919 to start a new life where many relatives from his village had settled. There he ran a watch repair/pawn shop on 112 Market Street.'
+      "type": "Feature",
+      "properties": {
+        "place": "112 Market Street, Stockton",
+        "description": "Nea Woo moved to Stockton in 1919 to start a new life where many relatives from his village had settled. There he ran a watch repair/pawn shop on 112 Market Street."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -121.28908681353995,
           37.95151901591181
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Shanghai',
-        Description: 'Clement Chen was born in Shanghai in 1929. Nea Woo's family spent the war years, 1939 to 1945, in Shanghai under Japanese occupation. Clement and June met in the fifth grade in Shanghai, when as punishment for misbehaving in school, the teacher made him sit next to the smartest girl in the class, who was June. Clement was attending St. John’s University when it was shut down in 1949.'
+      "type": "Feature",
+      "properties": {
+        "place": "Shanghai",
+        "description": "Clement Chen was born in Shanghai in 1929. Nea Woo's family spent the war years, 1939 to 1945, in Shanghai under Japanese occupation. Clement and June met in the fifth grade in Shanghai, when as punishment for misbehaving in school, the teacher made him sit next to the smartest girl in the class, who was June. Clement was attending St. John’s University when it was shut down in 1949."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           121.47047958779245,
           31.2307377597635
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Hong Kong',
-        Description: 'Nea Woo departed on board S. S. President Wilson on July 23rd, 1953. He took the advice from his immigration attorney to leave on a voluntary basis upon his daughter's graduation so he could return again if and when there was a change in immigration laws. He then went to Hongkong. His second wife passed away in 1960 in Hong Kong.'
+      "type": "Feature",
+      "properties": {
+        "place": "Hong Kong",
+        "description": "Nea Woo departed on board S. S. President Wilson on July 23rd, 1953. He took the advice from his immigration attorney to leave on a voluntary basis upon his daughter's graduation so he could return again if and when there was a change in immigration laws. He then went to Hongkong. His second wife passed away in 1960 in Hong Kong."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           114.16363364973085,
           22.278684624846022
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: '3901 18th Street, San Francisco',
-        Description: 'In 1947, Nea Woo found an old friend in San Francisco who was also in search of a job change. Together they purchased and managed a small neighborhood grocery store at 3901 18th Street, and named it Bennie Market. They lived in an apartment a block away.'
+      "type": "Feature",
+      "properties": {
+        "place": "3901 18th Street, San Francisco",
+        "description": "In 1947, Nea Woo found an old friend in San Francisco who was also in search of a job change. Together they purchased and managed a small neighborhood grocery store at 3901 18th Street, and named it Bennie Market. They lived in an apartment a block away."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -122.4307910756618,
           37.76100898748794
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'University of the South in Sewanee, Tennessee',
-        Description: 'In 1949, Clement's mother urged him to apply to college in the United States and his English teacher, Grace Brady, suggested he apply to the University of the South in Sewanee, Tennessee. She recommended him for a scholarship, and when Clement was offered admission and a full scholarship, he was able to apply for a visa to come to the U.S. Clement Chen donated funds for a building at the University of the South which is known as Clement Chen Hall, and is the official residence of the university’s vice-chancellor.'
+      "type": "Feature",
+      "properties": {
+        "place": "University of the South in Sewanee, Tennessee",
+        "description": "In 1949, Clement's mother urged him to apply to college in the United States and his English teacher, Grace Brady, suggested he apply to the University of the South in Sewanee, Tennessee. She recommended him for a scholarship, and when Clement was offered admission and a full scholarship, he was able to apply for a visa to come to the U.S. Clement Chen donated funds for a building at the University of the South which is known as Clement Chen Hall, and is the official residence of the university’s vice-chancellor."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -85.91870831353958,
           35.20389861787747
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Rensselaer Polytechnic Institute in Troy, New York',
-        Description: 'After two years at Sewanee, he transferred to Rensselaer Polytechnic Institute in Troy, NY, to study architecture.'
+      "type": "Feature",
+      "properties": {
+        "place": "Rensselaer Polytechnic Institute in Troy, New York",
+        "description": "After two years at Sewanee, he transferred to Rensselaer Polytechnic Institute in Troy, NY, to study architecture."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -73.68114806578176,
           42.73007139226576
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Stanford University',
-        Description: 'June graduated from Stanford University in late Spring of 1953. The Immigration Service notified him that he was subject to deportation since his daughter's education was complete.'
+      "type": "Feature",
+      "properties": {
+        "place": "Stanford University",
+        "description": "June graduated from Stanford University in late Spring of 1953. The Immigration Service notified him that he was subject to deportation since his daughter's education was complete."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -122.17025044069939,
           37.429529879804846
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'The Holiday Inn Financial District on Kearny Street',
-        Description: 'After graduation, Clement moved to San Francisco. His big break came when he designed the Holiday Inn Financial District on Kearny Street on the edge of Chinatown in San Francisco, and met the founder of Holiday Inn, Kemmons Wilson.'
+      "type": "Feature",
+      "properties": {
+        "place": "The Holiday Inn Financial District on Kearny Street",
+        "description": "After graduation, Clement moved to San Francisco. His big break came when he designed the Holiday Inn Financial District on Kearny Street on the edge of Chinatown in San Francisco, and met the founder of Holiday Inn, Kemmons Wilson."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           -122.40477291473044,
           37.79449915494624
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'The Jianguo Hotel in Beijing',
-        Description: 'Meeting the founder of Holiday Inn, Kemmons Wilson, led to Clement developing substantial ownership stakes in Holiday Inns in Palo Alto, Pasadena, Buffalo, and Orange County, and then the first international joint venture hotel built in the People’s Republic of China, the Jianguo Hotel in Beijing.'
+      "type": "Feature",
+      "properties": {
+        "place": "The Jianguo Hotel in Beijing",
+        "description": "Meeting the founder of Holiday Inn, Kemmons Wilson, led to Clement developing substantial ownership stakes in Holiday Inns in Palo Alto, Pasadena, Buffalo, and Orange County, and then the first international joint venture hotel built in the People’s Republic of China, the Jianguo Hotel in Beijing."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           116.44658934746417,
           39.907498464841495
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Xi'an',
-        Description: 'Clement designed and developed an 800-room hotel in Xi'an, the home of the famous terracotta warriors, but sadly did not live to see its completion when he died of a heart attack at the age of 58.'
+      "type": "Feature",
+      "properties": {
+        "place": "Xi'an",
+        "description": "Clement designed and developed an 800-room hotel in Xi'an, the home of the famous terracotta warriors, but sadly did not live to see its completion when he died of a heart attack at the age of 58."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           108.93365003921605,
           34.33979767824961
         ],
-        type: 'Point'
+        "type": "Point"
       }
     },
     {
-      type: 'Feature',
-      properties: {
-        Place: 'Australia',
-        Description: 'One of the five children of Nea Woo, a daughter, immigrated to Australia with her husband.'
+      "type": "Feature",
+      "properties": {
+        "place": "Australia",
+        "description": "One of the five children of Nea Woo, a daughter, immigrated to Australia with her husband."
       },
-      geometry: {
-        coordinates: [
+      "geometry": {
+        "coordinates": [
           151.20800628961211,
           -33.870676293131645
         ],
-        type: 'Point'
+        "type": "Point"
       }
     }
   ]
